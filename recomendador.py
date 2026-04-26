@@ -1,6 +1,4 @@
 """
-recomendador.py
-===============
 Núcleo do sistema de recomendação de livros.
 
 Implementa DOIS modelos complementares:
@@ -26,7 +24,6 @@ Uso externo:
   sugestoes = rec.recomendar_conteudo(perfil_usuario, top_n=5)
   sugestoes = rec.recomendar_colaborativo(historico_usuario, top_n=5)
 """
-
 import os
 import sys
 import numpy as np
