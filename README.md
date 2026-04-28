@@ -335,5 +335,6 @@ Combina as predições normalizadas dos dois modelos via **média ponderada ajus
 <!-- Preencha com os nomes e matrículas dos integrantes -->
 | Nome | Matrícula |
 |------|-----------|
-|      |           |
-|      |           |
+| Ana Caroline Freitas Brito | 242001526 |
+| Márcio Vinícius da Silva Guimarães | 242001553 |
+| Vitor Ignacio dos Santos Valcarcel | 242010006 |

@@ -38,8 +38,9 @@ cells.append(cell_markdown("""
 ---
 | Integrante | Matrícula |
 |---|---|
-| _(Nome 1)_ | _(000000/0)_ |
-| _(Nome 2)_ | _(000000/0)_ |
+| Ana Caroline Freitas Brito | 242001526 |
+| Márcio Vinícius da Silva Guimarães | 242001553 |
+| Vitor Ignacio dos Santos Valcarcel | 242010006 |
 
 ---
 ### Resumo
